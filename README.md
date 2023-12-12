@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My WHY is to harness the power of technology to create meaningful and positive changes in the world. I am driven by a genuine love for technology and its potential to drive innovation, improve lives, and solve problems. I am a dedicated and passionate Software Engineer with background in front-end development, specializing in ReactJS and TypeScript.
+My WHY is to harness the power of technology to create meaningful and positive changes in the world. I am driven by a genuine love for technology and its potential to drive innovation, solve problems and improve others lives. I am a dedicated and passionate Software Engineer with background in front-end development, specializing in ReactJS and TypeScript.
 
 <!--
 **Mariano1994/Mariano1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
