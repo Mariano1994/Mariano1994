@@ -17,8 +17,8 @@ My WHY is to harness the power of technology to create meaningful and positive c
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/marianocapiliku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianocapiliku" height="20" width="30" /></a>
-<a href="https://instagram.com/mariano.arthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariano.arthur" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/marianocapiliku" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianocapiliku" height="20" width="30" /></a>
+<a href="https://instagram.com/mariano.arthur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariano.arthur" height="20" width="30" /></a>
 </p>
 
 
